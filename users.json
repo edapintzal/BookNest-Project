@@ -1,0 +1,25 @@
+[ {
+  "username" : "aaa",
+  "cart" : {
+    "books" : [ ]
+  },
+  "password" : "9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0"
+}, {
+  "username" : "eda",
+  "cart" : {
+    "books" : [ ]
+  },
+  "password" : "1e2427dfb0177bef005a8ec24fd8da0384efe81252529356a7ce1ae77886f679"
+}, {
+  "username" : "admin",
+  "cart" : {
+    "books" : [ ]
+  },
+  "password" : "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+}, {
+  "username" : "bbb",
+  "cart" : {
+    "books" : [ ]
+  },
+  "password" : "3e744b9dc39389baf0c5a0660589b8402f3dbb49b89b3e75f2c9355852a3c677"
+} ]
